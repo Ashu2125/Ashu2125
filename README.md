@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">An Android developer passionate about creating intuitive and engaging mobile applications. I'm currently diving into the world of Android development, learning new technologies, and building projects to sharpen my skills.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu2125&label=Profile%20views&color=0e75b6&style=flat" alt="ashu2125" /> </p>
+<img  align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 - 🌱 I’m currently learning **Android**
 
