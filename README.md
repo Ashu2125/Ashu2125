@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **ashutoshmishra2001gd@gmail.com**
 
-- 📄 Know about my experiences [https://ashuresume.tiiny.site/](https://ashuresume.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
